@@ -1,0 +1,13 @@
+zone_id,zone_name,latitude,longitude,hospital_dependency,water_supply_dependency,heat_risk,vulnerable_resident_index,critical_facility_dependency,outage_duration_hours,medical_facility_count,water_facility_count,population_exposed,building_density,road_access_constraint,backup_power_coverage,recent_outage_count
+OUT-001,Central Medical District,18.5204,73.8567,96,92,88,74,95,5,18,4,9200,86,35,14,12
+OUT-002,Riverbank Residential,18.5074,73.8077,42,30,72,68,44,7,4,2,7800,73,78,55,20
+OUT-003,Civic Water Works,18.531,73.844,76,98,80,64,88,3,11,8,8400,89,52,22,28
+OUT-004,Industrial East,18.5631,73.9125,18,12,46,35,26,12,3,1,3900,82,91,31,16
+OUT-005,Senior Housing Cluster,18.4892,73.8781,67,24,94,83,58,6,9,2,6100,68,43,16,25
+OUT-006,Hillview Community,18.559,73.7997,28,18,63,52,31,8,5,1,5500,64,55,9,18
+OUT-007,Market & Transit Core,18.5166,73.8562,54,45,69,61,62,10,7,3,8700,91,72,27,22
+OUT-008,University Zone,18.5466,73.8955,38,34,76,59,49,5,6,2,6700,71,67,12,19
+OUT-009,Suburban Clinic Belt,18.536,73.895,61,29,85,72,57,9,8,2,7000,59,49,14,23
+OUT-010,West Water Pumping,18.498,73.824,72,91,71,58,83,4,5,7,8100,75,54,20,27
+OUT-011,Dense Rental District,18.5308,73.847,49,16,90,77,45,11,6,1,9400,94,81,24,31
+OUT-012,Peripheral Village,18.4618,73.817,22,9,39,42,21,4,2,1,3800,38,88,6,13
